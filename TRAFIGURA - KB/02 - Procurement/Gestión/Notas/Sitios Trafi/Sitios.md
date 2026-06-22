@@ -7,6 +7,7 @@
 [[LASAU]] / Lubricantes Avellaneda S.A.U. - CUIT:  33-71587747-9 / Location Oracle: 032025
 
 [[COCOs]]:
+Location general COCOs - **032023 “Service Stations Argentina Traf Office”**
 
 | Cant | Nro | Domicilio                                                 | ==Localidad==       | Actividad | Segmento      | Location Oracle |
 | ---- | --- | --------------------------------------------------------- | ------------------- | --------- | ------------- | --------------- |
